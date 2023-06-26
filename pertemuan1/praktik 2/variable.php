@@ -10,8 +10,8 @@
         Variable User
         Variable yang dibuat oleh user
     */
-    $name = 'Anan';
-    $age = 18;
+    $name = 'Dimas';
+    $age = 19;
     $weight = 44.0;
 
     echo ' Nama saya adalah ' . $name;
