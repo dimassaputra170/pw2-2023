@@ -12,7 +12,7 @@
     */
     $name = 'Dimas';
     $age = 19;
-    $weight = 44.0;
+    $weight = 45.0;
 
     echo ' Nama saya adalah ' . $name;
 
