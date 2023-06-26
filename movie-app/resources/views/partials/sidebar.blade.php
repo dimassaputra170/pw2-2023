@@ -1,4 +1,4 @@
-                        <div id="layoutSidenav_nav">
+<div id="layoutSidenav_nav">
 						    <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
 						        <div class="sb-sidenav-menu">
 						            <div class="nav">
@@ -12,16 +12,16 @@
 						                    <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
 						                    Movies
 						                </a>
-						                <a class="nav-link">
+						                <a class="nav-link" href="/genre">
 						                    <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
 						                    Genres
 						                </a>
-														<a class="nav-link">
+										<a class="nav-link" href="/review">
 						                    <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
 						                    Reviews
 						                </a>
 						                <div class="sb-sidenav-menu-heading">Account</div>
-						                <a class="nav-link">
+						                <a class="nav-link" href="user">
 						                    <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
 						                    Users
 						                </a>
